@@ -1,0 +1,61 @@
+orlykor12
+203595541
+orly koren
+
+I discussed the exercise with: Yoni Mantzur.
+
+=============================
+=  README for ex3 - 9 exercises
+=============================
+
+
+
+==================
+=  Description:  =
+==================
+#FILE: binaryToDecimal.py- converts binary numbers into decimal
+#FILE: decimalToBinary.py- converts decimal numbers into binary
+#FILE: decomposition.py- a program to place the value of the number to the day
+currect day
+#FILE: findLargest.py- a program to find the max number-the highest hat in the
+list
+#FILE: ithElementValue.py- a program to calculate the needed arrow for an orc
+#FILE: findSecondSmallest.py- a program to find the second smallest dancer
+#FILE: totalWeight.py- a program to calculate the total weight we enter
+the bag
+#FILE: twoDimentionalSeek.py- a program to help Gandalf find sam and frodo
+
+
+=============================
+=  List of submitted files: =
+=============================
+binaryToDecimal.py
+decimalToBinary.py
+decomposition.py
+findLargest.py
+ithElementValue.py
+findSecondSmallest.py
+totalWeight.py
+twoDimentionalSeek.py
+
+
+======================
+=  Special Comments  =
+======================
+
+EXERCISE 9:
+1. the difference between exercise 7 and 8 is that in 7 we do it in modulo 2 and in 8 we do it in modulo 10.moreover, when we do it in the 8th exercise the order is the opposite unless we change it. 
+for ex- when we convert binary num into decimal the order is right- 1100
+we get 12 in the correct order. but when we go from decimal to binary we get the nums not in the right order. for ex we get from the num 2 the binary num 01 which is 1 in decimal. so we need to change it in the end to get it right.
+
+2. the min change we need to do is to change the modulo from 2 to 10, and the order we write the sum in the 8th exercise- that way it writes it correctly. and instead of divine 2 to get the binary num we do the opposite to get to the decimal number.
+
+3.  a. in order to go beetwen bases we need to go first to base 10 and then from there go to the other bases. 
+for ex, if we want to go from 6 to 2 we need to do bigger changes, we need to ass both programs- first, go to 10 base, then go "down" to base 2.
+anf for going from 4 to 10, we can use program 7, with a few changes- instead of doing 2**0 doing it with 4. 
+
+yes he can. he put the number, then every num the user puts the program turns it into decimal base, then convert it to the chosen base.
+
+
+
+
